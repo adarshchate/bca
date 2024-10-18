@@ -1,0 +1,9 @@
+cd c:\xampp\mysql\bin
+mysql.exe -u root --password
+
+use balajihotel;
+
+select * from log;
+
+
+describe log;
